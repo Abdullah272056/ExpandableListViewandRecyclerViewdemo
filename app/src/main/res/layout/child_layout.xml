@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:textDirection="inherit"
+        android:id="@+id/childTextViewId"
+        android:textColor="#040303"
+        android:paddingTop="7dp"
+        android:paddingBottom="7dp"
+        android:paddingLeft="?android:expandableListPreferredChildPaddingLeft"
+        android:text="A Demo Code is a special 30 day code available for free from ACP that will provide full functionality for ThinManager. The purpose of a De code is to provide an evaluation period so you can see the features and benefits of the fully array of ThinManager features."
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:padding="8dp"
+    android:background="#FFC107"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textColor="#000000"
+        android:id="@+id/headerTextViewId"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="?android:expandableListPreferredItemPaddingLeft"
+        android:text="Header"
+        android:textSize="27sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
